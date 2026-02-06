@@ -52,3 +52,25 @@ dans l’adoption pratique de l’IA pour la **productivité**, la **création d
 pip install openai
 pip install langchain
 pip install streamlit
+
+---
+
+### 🤖 Assistant pédagogique IA
+- Génération automatique de contenus de cours
+- Création de QCM et supports pédagogiques
+- Basé sur ChatGPT + Python
+
+### 🧠 Chatbot éducatif local
+- Assistant IA pour étudiants et apprenants
+- Réponses contextualisées aux cours
+- Utilisation : centres de formation & écoles
+
+### ⚙️ Automatisation intelligente
+- Automatisation de tâches répétitives
+- Génération de documents (PDF, rapports, CV)
+- Scripts Python adaptés aux PME locales
+
+### 📊 Outils IA pour entrepreneurs
+- Aide à la rédaction (business plans, contenus marketing)
+- Analyse simple de données
+- Outils accessibles sans infrastructure lourde
