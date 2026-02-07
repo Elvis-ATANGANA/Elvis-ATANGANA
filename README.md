@@ -1,76 +1,34 @@
-# 👋 Bonjour, je suis ATANGANA Elvis
+<div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-00A67E?logo=openai&logoColor=white)
-![IA](https://img.shields.io/badge/Intelligence-Artificielle-blue)
+# 👋 Bonjour, je suis [TON NOM] !
+**Formateur IA Générative Certifié | Douala, Cameroun**
 
----
+[![Certificat IA](https://img.shields.io/badge/Certifié-IA%20Générative-007ACC?style=for-the-badge&logo=certificate)](ton-certificat.pdf)
+[![Python](https://img.shields.io/badge/Python-IA%20Générative-3776AB.svg)](https://python.org)
+[![ChatGPT](https://img.shields.io/badge/ChatGPT-Prompt%20Engineering-10A37F.svg)](https://chat.openai.com)
 
-## 🚀 Formateur en Intelligence Artificielle Générative – Douala 🇨🇲
+</div>
 
-Formateur en **Intelligence Artificielle Générative** basé à **Douala (Cameroun)**, j’accompagne :
-- centres de formation
-- étudiants
-- entrepreneurs
-- professionnels
+## 🚀 Ce que je propose aux centres formation Douala
 
-dans l’adoption pratique de l’IA pour la **productivité**, la **création de valeur** et l’**emploi**.
+| 🎯 **Cible** | 📚 **Module** | ⏱️ **Durée** |
+|-------------|---------------|---------------|
+| ITAB Academy | Prompt Engineering Avancé | 3 jours |
+| CIS Formation | ChatGPT + Data Analysis | 5 jours |
+| LocalHost | Midjourney Marketing | 2 jours |
 
-🎯 Pédagogie orientée :
-- cas concrets africains
-- outils accessibles
-- projets applicables immédiatement
+## 📁 Mes projets IA (épinglés)
 
----
+[![ChatGPT Formateur](https://github-readme-stats.vercel.app/api/pin/?username=tonnom&repo=chatgpt-formateur-douala&theme=radical)](https://github.com/tonnom/chatgpt-formateur-douala)
+[![Prompt Engineering](https://github-readme-stats.vercel.app/api/pin/?username=tonnom&repo=prompt-engineering-slides&theme=radical)](https://github.com/tonnom/prompt-engineering-slides)
 
-## 🧠 Compétences principales
-- 🤖 ChatGPT & Prompt Engineering  
-- 🐍 Python appliqué à l’IA  
-- ⚙️ Automatisation & productivité  
-- 📊 Outils IA pour entreprises  
-- 🎓 Formation présentielle & en ligne
+## 🛠️ Compétences IA Générative
 
-- ## 👥 Public formé
-- Étudiants & jeunes diplômés
-- Formateurs & enseignants
-- Entrepreneurs & PME
-- Professionnels en reconversion
-
----
-
-## 🏫 Centres de formation
-| Centre | Ville | Formations |
-|------|------|-----------|
-| ITAB | Douala | IA générative |
-| CIS | Douala | Python & ChatGPT |
-| LocalHost | Douala | Automatisation |
-
----
-
-## ⚙️ Outils & installation
-```bash
-pip install openai
-pip install langchain
-pip install streamlit
-
----
-
-### 🤖 Assistant pédagogique IA
-- Génération automatique de contenus de cours
-- Création de QCM et supports pédagogiques
-- Basé sur ChatGPT + Python
-
-### 🧠 Chatbot éducatif local
-- Assistant IA pour étudiants et apprenants
-- Réponses contextualisées aux cours
-- Utilisation : centres de formation & écoles
-
-### ⚙️ Automatisation intelligente
-- Automatisation de tâches répétitives
-- Génération de documents (PDF, rapports, CV)
-- Scripts Python adaptés aux PME locales
-
-### 📊 Outils IA pour entrepreneurs
-- Aide à la rédaction (business plans, contenus marketing)
-- Analyse simple de données
-- Outils accessibles sans infrastructure lourde
+```mermaid
+graph TB
+    A[ChatGPT API] --> B[Prompt Engineering]
+    B --> C[Automatisation Contenu]
+    A --> D[MIDJOURNEY]
+    D --> E[Images Marketing]
+    C --> F[Formateur Certifié]
+    E --> F
