@@ -1,35 +1,28 @@
 <div align="center">
 
-# 👋 Bonjour, je suis Elvis ATANGANA!
+# 👋 Bonjour, je suis ATANGANA Elvis !
+**Formateur en IA Générative | Douala, Cameroun 🇨🇲**
 
-**Formateur IA Générative Certifié | Douala, Cameroun**
-
-[![Certificat IA](https://img.shields.io/badge/Certifié-IA%20Générative-007ACC?style=for-the-badge&logo=certificate)](ton-certificat.pdf)
-[![Python](https://img.shields.io/badge/Python-IA%20Générative-3776AB.svg)](https://python.org)
-[![ChatGPT](https://img.shields.io/badge/ChatGPT-Prompt%20Engineering-10A37F.svg)](https://chat.openai.com)
+![Python](https://img.shields.io/badge/Python-IA%20Générative-3776AB.svg)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-Prompt%20Engineering-10A37F.svg)
 
 </div>
 
-## 🚀 Ce que je propose aux centres formation Douala
+## 🚀 Ce que je propose aux centres de formation à Douala
 
-| 🎯 **Cible** | 📚 **Module** | ⏱️ **Durée** |
-|-------------|---------------|---------------|
+| 🎯 Cible | 📚 Module | ⏱️ Durée |
+|--------|-----------|---------|
 | ITAB Academy | Prompt Engineering Avancé | 3 jours |
-| CIS Formation | ChatGPT + Data Analysis | 5 jours |
+| CIS Formation | ChatGPT & Data Analysis | 5 jours |
 | LocalHost | Midjourney Marketing | 2 jours |
 
-## 📁 Mes projets IA (épinglés)
+## 📁 Projets IA (exemples)
 
-[![ChatGPT Formateur](https://github-readme-stats.vercel.app/api/pin/?username=tonnom&repo=chatgpt-formateur-douala&theme=radical)](https://github.com/tonnom/chatgpt-formateur-douala)
-[![Prompt Engineering](https://github-readme-stats.vercel.app/api/pin/?username=tonnom&repo=prompt-engineering-slides&theme=radical)](https://github.com/tonnom/prompt-engineering-slides)
+[![ChatGPT Formateur](https://github-readme-stats.vercel.app/api/pin/?username=Elvis-ATANGANA&repo=chatgpt-formateur-douala&theme=radical)](https://github.com/Elvis-ATANGANA)
 
 ## 🛠️ Compétences IA Générative
-
-```mermaid
-graph TB
-    A[ChatGPT API] --> B[Prompt Engineering]
-    B --> C[Automatisation Contenu]
-    A --> D[MIDJOURNEY]
-    D --> E[Images Marketing]
-    C --> F[Formateur Certifié]
-    E --> F[vidéos publicitaires IA]
+- 🤖 ChatGPT API & assistants IA
+- ✍️ Prompt Engineering avancé
+- ⚙️ Automatisation de contenus
+- 🎨 Midjourney & visuels marketing
+- 🎓 Formation pédagogique orientée pratique
