@@ -1,6 +1,7 @@
 <div align="center">
 
-# 👋 Bonjour, je suis [TON NOM] !
+# 👋 Bonjour, je suis Elvis ATANGANA!
+
 **Formateur IA Générative Certifié | Douala, Cameroun**
 
 [![Certificat IA](https://img.shields.io/badge/Certifié-IA%20Générative-007ACC?style=for-the-badge&logo=certificate)](ton-certificat.pdf)
@@ -31,4 +32,4 @@ graph TB
     A --> D[MIDJOURNEY]
     D --> E[Images Marketing]
     C --> F[Formateur Certifié]
-    E --> F
+    E --> F[vidéos publicitaires IA]
