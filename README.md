@@ -1,37 +1,54 @@
 <div align="center">
 
 # 👋 Elvis ATANGANA - Formateur IA Générative 🚀
-**Douala, Cameroun | Certifié 2026**
+**Douala | Certifié Février 2026**
 
-[![Certificat IA](https://img.shields.io/badge/Certifié-IA%20Générative-007ACC?style=for-the-badge&logo=certificate)](https://drive.google.com/ton-certificat)
-[![Python](https://img.shields.io/badge/Python-ChatGPT-3776AB.svg)](https://python.org)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Douala-25D366.svg)](https://wa.me/237[TonNuméro])
+[![Certificat](https://img.shields.io/badge/Certifié-IA%20Générative-brightgreen?style=for-the-badge)] [![WhatsApp](https://img.shields.io/badge/WhatsApp-Contact-25D366?style=for-the-badge&logo=whatsapp)]
 
-![Bannière IA Douala](https://i.imgur.com/banniere-ia-douala.png)
+![Bannière IA](https://i.imgur.com/ia-douala-banner.png)
 
 </div>
 
-## 🎯 **Ce que je propose aux centres formation**
+## 🎯 Ce que je propose aux centres
 
-| **Centre** | **Module IA Générative** | **Durée** | **Tarif** |
-|------------|--------------------------|-----------|-----------|
-| 🎓 **ITAB Academy** | Prompt Engineering + ChatGPT | 3 jours | 300k FCFA |
-| 💾 **CIS Formation** | IA Générative + Data | 5 jours | 500k FCFA |
-| 🌐 **LocalHost Academy** | Midjourney Marketing | 2 jours | 200k FCFA |
+| Centre | Module | Durée |
+|--------|--------|-------|
+| ITAB Academy | ChatGPT Pro | 3j |
+| CIS Formation | IA Data | 5j |
+| LocalHost | Midjourney | 2j |
 
-## 🛠️ **Mes projets IA (épinglés)**
+## 🎥 **DÉMOS LIVE (GRATUITES)**
 
-[![ChatGPT Formateur](https://github-readme-stats.vercel.app/api/pin/?username=[TON_USERNAME]&repo=chatgpt-formateur-douala&theme=radical)](https://github.com/[TON_USERNAME]/chatgpt-formateur-douala)
-[![Prompt Engineering](https://github-readme-stats.vercel.app/api/pin/?username=[TON_USERNAME]&repo=prompt-engineering&theme=radical)](https://github.com/[TON_USERNAME]/prompt-engineering)
-[![Video IA](https://github-readme-stats.vercel.app/api/pin/?username=[TON_USERNAME]&repo=video-ia-douala&theme=radical)](https://github.com/[TON_USERNAME]/video-ia-douala)
+<div align="center">
 
-## 💼 **Compétences IA Générative**
+| 📱 **ChatGPT Formateur Demo** | 🔗 **Tester** |
+|-------------------------------|---------------|
+| ![ChatGPT Demo](https://i.imgur.com/chatgpt-formateur.png) | [Lien ChatGPT](https://chatgpt.com/g/g-formateur) |
 
-```mermaid
-graph TB
-    A[ChatGPT API] --> B[Prompt Engineering]
-    A --> C[MIDJOURNEY Images]
-    B --> D[Automatisation Formation]
-    C --> E[Marketing Digital]
-    D --> F[📈 Centres Douala]
-    E --> F
+| 📱 **Prompts Slides** | 🔗 **Voir** |
+|-----------------------|-------------|
+| ![Slides Demo](https://i.imgur.com/slides-prompts.png) | [Google Slides](https://docs.google.com/slides/d/demo) |
+
+| 📱 **Vidéo IA Exemple** | 🔗 **Regarder** |
+|-------------------------|------------------|
+| ![Video Demo](https://i.imgur.com/video-ia.png) | [YouTube Demo](https://youtu.be/demo) |
+
+</div>
+
+## 📞 **CONTACT DIRECT Recruteurs**
+
+<div align="center">
+
+[![WhatsApp](https://img.shields.io/badge/%F0%9F%91%8D%20WhatsApp-N%27appelle%20pas-25D366?style=for-the-badge&logo=whatsapp)](https://wa.me/2376XXXXXXXXX?text=Salut%20Koffi%2C%20vu%20ton%20GitHub%20IA)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profil-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/koffijunior)
+[![Email](https://img.shields.io/badge/Email-CV%20PDF-red?style=for-the-badge&logo=gmail)](mailto:koffi@gmail.com?subject=Formateur%20IA)
+
+**✅ Atelier TEST GRATUIT 3h semaine prochaine**  
+**💰 CDI 400k-600k FCFA/mois | Freelance 100k/jour**
+
+</div>
+
+<div align="center">
+**#IAGenerative #DoualaTech #FormateurCertifié**
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=koffijunior&show_icons=true)
+</div>
